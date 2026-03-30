@@ -1,0 +1,127 @@
+h1{
+    color: #F63049;
+    font-size: 500%;
+    text-align: center;
+}
+
+html{
+    background-color: #111F35;
+}
+
+
+h2{
+    color: #D02752;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    margin: 0;
+} 
+
+span{
+    font-style: italic;
+    font-weight: 900;
+}
+
+.Home{
+    text-align: center;
+    color: #FF7DB0;
+    
+}
+
+.container{
+    display: flex;
+    gap: 46%; /* space between divs */
+    margin: 0;
+    text-align: center;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    color: #FF7DB0;
+    margin: 0; 
+}
+
+.Yes{
+    color: #FF7DB0;
+    font-style: italic;
+}
+
+.No{
+    color: #FF7DB0;
+    font-style: italic;
+}
+
+.Cringe{
+    color: #FF7DB0;
+    font-style: italic;
+}
+
+
+.no-pic-box{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+ .fu{
+    width: 100%;
+    border: 5px solid #00F7FF; border-radius: 10%;
+
+ }
+
+ .cringe-box{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    
+}
+
+.cringe-pic{
+    width: 100%;
+    border: 5px solid #00F7FF; border-radius: 10%;
+}
+
+.img-box{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.img-welcome{
+    width: 100%;
+    border: 5px solid #00F7FF; border-radius: 10%;
+
+}
+
+.Yes-container{
+    display: flex;
+    flex-direction: column;
+    gap: 500px;
+    align-items: center;
+    
+}
+
+.Yes-box {
+  padding: 16px;
+  background: #00F7FF;
+  margin: 0;
+  width: 50%;
+  border-radius: 1%;
+  margin: 0;
+}
+
+.Yes-box-img{
+    width: 100%;
+    border-radius: 1%;
+    
+}
+
+.p{
+    text-align: center;
+     font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(198, 9, 215);
+  text-transform: uppercase;
+}
